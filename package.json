@@ -25,5 +25,7 @@
     "twitter",
     "twitterbot",
     "bot"
-  ]
+  ],
+  "request": "^2.85.0",
+  "tracery-grammar": "^2.7.3"
 }
